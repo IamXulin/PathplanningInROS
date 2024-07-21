@@ -1,0 +1,8 @@
+prefix=/home/xulin/Path_Planning_ROS/install
+
+Name: Emplanner
+Description: Description of Emplanner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

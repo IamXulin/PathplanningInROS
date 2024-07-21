@@ -1,0 +1,2 @@
+Apollo:Astar:path_planning:vtd
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/xulin/Path_Planning_ROS/devel -DCMAKE_INSTALL_PREFIX=/home/xulin/Path_Planning_ROS/install -G Unix Makefiles

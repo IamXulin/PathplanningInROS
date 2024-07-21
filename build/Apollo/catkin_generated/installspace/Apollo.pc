@@ -1,0 +1,8 @@
+prefix=/home/xulin/Path_Planning_ROS/install
+
+Name: Apollo
+Description: Description of Apollo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
